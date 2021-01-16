@@ -1,0 +1,1 @@
+[![Build Status](https://travis-ci.com/marco-ostaska/go-travis.svg?branch=main)](https://travis-ci.com/marco-ostaska/go-travis)
