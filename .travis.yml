@@ -7,5 +7,6 @@ language: go
 
 go: "1.15.6"
 
-script: go test . -v
-script: go test ./cmd/. -v
+script: 
+  - go test . -v
+  - go test ./cmd/. -v
