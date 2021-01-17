@@ -15,8 +15,12 @@ limitations under the License.
 */
 package main
 
-import "github.com/marco-ostaska/go-travis/cmd"
+import (
+	"fmt"
+	"os"
+)
 
 func main() {
-	cmd.Execute()
+
+	fmt.Println(os.Getenv("TESTE"))
 }
