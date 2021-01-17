@@ -9,3 +9,4 @@ go: "1.15.6"
 
 script: 
   - go run .
+  - fhfhfhfhfhfhfhf
